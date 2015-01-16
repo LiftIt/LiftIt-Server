@@ -21,7 +21,7 @@
             "id": 2,
             "name": "Cross Over 25",
             "sets": 2,
-            "reps": "10+12+14+16",
+            "reps": [[10, 12, 14, 16], [10, 12, 14, 16]],
             "load": [[18, 16, 14, 12], [18, 16, 14, 12]],
             "rest": 45
           },
@@ -30,7 +30,7 @@
             "id": 3,
             "name": "Supino Inclinado",
             "sets": 3,
-            "reps": "10+20",
+            "reps": [[10,20], [10,20], [10,20]],
             "load": [[30,20], [30,20], [30,20]],
             "rest": 60
           },
@@ -57,7 +57,7 @@
             "id": 6,
             "name": "Triceps Test Barra W + Halter Unilat",
             "sets": 3,
-            "reps": "10+8",
+            "reps": [[10,8], [10,8], [10,8]],
             "rest": 60
           },
 
@@ -67,24 +67,7 @@
             "sets": 3,
             "reps": 15,
             "rest": 45
-          },
-
-          {
-            "id": 8,
-            "name": "Abd Supra Corda (Joelho)",
-            "sets": 3,
-            "reps": 20,
-            "rest": 60
-          },
-
-          {
-            "id": 8,
-            "name": "Abd Supra 10 + 20 (34) C/ S/ Carga",
-            "sets": 3,
-            "reps": 20,
-            "rest": 60
           }
-
 
         ]
       }
