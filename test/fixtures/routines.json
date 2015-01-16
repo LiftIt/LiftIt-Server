@@ -1,0 +1,116 @@
+{
+  "routines":
+    [
+
+      {
+        "id": 1,
+        "name": "Treino A - Peito e Tríceps",
+        "rest": 60,
+        "exercises": [
+
+          {
+            "id": 1,
+            "name": "Supino Reto",
+            "sets": 4,
+            "reps": 10,
+            "load": 40,
+            "rest": 30
+          },
+
+          {
+            "id": 2,
+            "name": "Cross Over 25",
+            "sets": 2,
+            "reps": [[10, 12, 14, 16], [10, 12, 14, 16]],
+            "load": [[18, 16, 14, 12], [18, 16, 14, 12]],
+            "rest": 45
+          },
+
+          {
+            "id": 3,
+            "name": "Supino Inclinado",
+            "sets": 3,
+            "reps": [[10,20], [10,20], [10,20]],
+            "load": [[30,20], [30,20], [30,20]],
+            "rest": 60
+          },
+
+          {
+            "id": 4,
+            "name": "Crucifixo Pronado Inclinado",
+            "sets": 3,
+            "reps": 10,
+            "load": 18,
+            "rest": 45
+          },
+
+          {
+            "id": 5,
+            "name": "Triceps Frances 25",
+            "sets": 3,
+            "reps": 10,
+            "load": 8,
+            "rest": 30
+          },
+
+          {
+            "id": 6,
+            "name": "Triceps Test Barra W + Halter Unilat",
+            "sets": 3,
+            "reps": [[10,8], [10,8], [10,8]],
+            "rest": 60
+          },
+
+          {
+            "id": 7,
+            "name": "Triceps Branco",
+            "sets": 3,
+            "reps": 15,
+            "rest": 45
+          }
+
+        ]
+      }
+      ,
+      {
+        "id": 2,
+        "name": "Treino B - Costas e Bíceps",
+        "rest": 60,
+        "exercises": [
+
+          {
+            "id": 8,
+            "name": "Remada Curvada Aberta Smith",
+            "sets": 4,
+            "reps": [[8,10],[8,10],[8,10],[8,10]],
+            "rest": 60
+          },
+
+          {
+            "id": 9,
+            "name": "Barra Fixa Supinada 28",
+            "sets": 4,
+            "reps": [],
+            "rest": 45
+          }
+
+        ]
+      }
+      ,
+      {
+        "id": 3,
+        "name": "Treino C - Pernas e Ombros",
+        "rest": 60,
+        "exercises": [
+          {
+            "id": 40,
+            "name": "Levantamento Terra Barra Supino",
+            "sets": 4,
+            "reps": 10,
+            "load": 30,
+            "rest": 30
+          }
+        ]
+      }
+    ]
+}
