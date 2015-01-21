@@ -136,14 +136,19 @@
         "name": "Treino C - Pernas e Ombros",
         "rest": 60,
         "exercises": [
-          {
-            "id": 40,
-            "name": "Levantamento Terra Barra Supino",
-            "sets": 4,
-            "reps": 10,
-            "load": 30,
-            "rest": 30
-          }
+
+
+  { "id": 11, "name": "Levantamento Terra Barra Supino", "sets": 4, "reps": "10", "rest": 30 },
+  { "id": 11, "name": "Afundo Alternado 34", "sets": 3, "reps": "10+10", "rest": 60 },
+  { "id": 11, "name": "Banco Extensor 12", "sets": 2, "reps": "8+10+12+14", "rest": 60 },
+  { "id": 11, "name": "Stiff Barra", "sets": 4, "reps": "10", "rest": 30 },
+  { "id": 11, "name": "Banco Flexor", "sets": 2, "reps": "8+10+12+14", "rest": 60 },
+  { "id": 11, "name": "Banco Adutor + Abdutor", "sets": 3, "reps": "15", "rest": 45 },
+  { "id": 11, "name": "Panturrilha Leg", "sets": 4, "reps": "15", "rest": 45 },
+  { "id": 11, "name": "Panturrilha Smith Unilateral", "sets": 2, "reps": "12+14+16", "rest": 60 },
+  { "id": 11, "name": "Desenvolvimento c/ Halter + Elev Frontal Anilha", "sets": 3, "reps": "10", "rest": 60 },
+  { "id": 11, "name": "Encolhimento", "sets": 4, "reps": "15", "rest": 60 }
+
         ]
       }
     ]
